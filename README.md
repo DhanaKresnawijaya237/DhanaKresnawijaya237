@@ -1,8 +1,8 @@
 # 💫 About Me:
 - 🎓 Intelligence Science (AI) @ SUSTech
-- 🔬 Interested in AI, Computer Vision, and Computer Architecture
+- 🔬 Interested in AI, Computer Vision, and 3D Visual Perception and Reconstruction
 - 🖥️ Right now working on Python, C/C++, and Kotlin
-- 🌱 Currently learning CPU Top-Down Analysis and Android Development
+- 🌱 Currently learning Android Kotlin Development and Semantic 3DGS
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhana_kresnawijaya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhana-kresnawijaya-6a84aa354) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanakresnawijaya@gmail.com) 
